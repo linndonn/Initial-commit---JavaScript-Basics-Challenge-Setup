@@ -51,3 +51,9 @@ let welcomeMessage = "Welcome to our Shopping Plaza" + customerName "!"
 
 // Log it to the console
 console.log(welcomeMessage);
+
+//Boolean Data Type
+let isLoggedin = true;
+if (isLoggedin) { console.log("Login Successful");}
+else { console.log ("Login Unsuccessful");
+    }

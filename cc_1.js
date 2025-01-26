@@ -27,3 +27,17 @@ var isAvailable = true;
 console.log( typeof productName);
 console.log( typeof productPrice);
 console.log( typeof isAvailable);
+
+
+// Task 3: Number Data Type
+// Declare a variable accountBalance using let and assign it a number representing the initial balance.
+let accountBalance = 100.00;
+// Perform basic arithmetic operations (+, -, *, /) and log the updated values.
+accountBalance += 500;  // Add 500 to balance
+console.log(accountBalance);
+accountBalance -= 400;   // Subtract 400 from balance
+console.log(accountBalance);
+accountBalance *= 2;   //Multiply balance
+console.log(accountBalance);
+accountBalance /= 2;     // Divide balance
+console.log(accountBalance);

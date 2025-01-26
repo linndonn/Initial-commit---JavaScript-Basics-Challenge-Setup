@@ -16,3 +16,14 @@ console.log(typeof isActive);
 
 
 //Task 2: Primitive Data Type
+let productName = "PopCorners";
+//Declare a variable productName using let and assign it a string value representing the product's name
+
+const productPrice = 4.27;
+// Declare a variable productPrice using const and assign it a numerical value representing the product's price.
+
+var isAvailable = true;
+//Declare a variable isAvailable using var and assign it a boolean value indicating product availability.
+console.log( typeof productName);
+console.log( typeof productPrice);
+console.log( typeof isAvailable);

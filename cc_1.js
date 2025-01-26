@@ -47,7 +47,7 @@ console.log(accountBalance);
 let customerName = "Stooge Joseph";
 
 // Concatenate strings to form a welcome message .
-let welcomeMessage = "Welcome to our Shopping Plaza" + customerName
+let welcomeMessage = "Welcome to our Shopping Plaza " + customerName
 
 // Log it to the console
 console.log(welcomeMessage);

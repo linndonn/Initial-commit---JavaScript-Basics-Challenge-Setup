@@ -41,3 +41,13 @@ accountBalance *= 2;   //Multiply balance
 console.log(accountBalance);
 accountBalance /= 2;     // Divide balance
 console.log(accountBalance);
+
+//Task 4: String Data Type
+// Declare a variable customerName using let and assign a string value.
+let customerName = "Stooge Joseph";
+
+// Concatenate strings to form a welcome message .
+let welcomeMessage = "Welcome to our Shopping Plaza" + customerName "!"
+
+// Log it to the console
+console.log(welcomeMessage);
